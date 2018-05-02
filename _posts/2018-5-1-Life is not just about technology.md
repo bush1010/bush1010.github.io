@@ -22,9 +22,6 @@ tags: 生活不只有技术
 ![alt text](/pic/views/IMG_0324.JPG)
 
 
-![alt text](/pic/views/IMG_0325.JPG)
-
-
 ![alt text](/pic/views/IMG_0329.JPG)
 
 
@@ -47,12 +44,3 @@ tags: 生活不只有技术
 
 
 ![alt text](/pic/views/IMG_0340.JPG)
-
-
-![alt text](/pic/views/IMG_0341.JPG)
-
-
-![alt text](/pic/views/IMG_0342.JPG)
-
-
-![alt text](/pic/views/IMG_0343.JPG)
