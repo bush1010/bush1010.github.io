@@ -20,13 +20,7 @@ tags: 源码
 ***
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>原生JS~经典扫雷</title>
-    <style>
-
+  css部分
   通配符 {
             margin: 0;
             padding: 0;
@@ -133,9 +127,10 @@ tags: 源码
             background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526294867771&di=62cc912d4ae2f83821379dda72c5038c&imgtype=0&src=http%3A%2F%2Fimg7.ph.126.net%2FxGnwduuVUpoaVv_Ef4hz3w%3D%3D%2F2682175053093655587.jpg');
             background-size: 100% 100%;
         }
-    </style>
-</head>
-<body>
+
+
+
+        html部分
     <div class="wrapper">
         <div class="startGame">开始游戏</div>
         <div class="bombBox" id="bombBox">
@@ -150,7 +145,8 @@ tags: 源码
     </div>
 
 
-    <script>
+
+    js部分
 
         var oStartGame = document.getElementsByClassName('startGame')[0];
         var bombBox = document.getElementById('bombBox');
@@ -283,6 +279,5 @@ tags: 源码
                 closeImg.style.backgroundImage = 'url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526295904123&di=af8458af00567fc10baf30dd1c66a51c&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D5477740504f41bd5ce5ee0b739b3ebbe%2Fac6eddc451da81cb10b210e35866d01609243143.jpg")';
             }
         }
-    </script>
-</body>
-</html>
+
+        
