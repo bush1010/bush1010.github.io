@@ -1,5 +1,5 @@
 ---
-title: Improving Hydejack's Build Speed
+title: Improving Hydejack's Build Speed121111hahah
 image: /assets/img/blog/wade-lambert.jpg
 description: >
   Hydejack 8.3 introduces new options to bring Hydejack's build time in line with other Jekyll themes. 
