@@ -12,11 +12,11 @@ url:                   https://domain.tld
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/hydejack/_posts'
+baseurl:               '/hydejack'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  zh
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Hydejack
