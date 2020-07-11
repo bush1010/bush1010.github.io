@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Hydejack
     url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
+  - title:             Blog Category
+    url:               /Blog Category/
   - title:             Documentation
     url:               /docs/
   - title:             About
