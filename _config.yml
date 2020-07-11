@@ -49,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             blog1
+  - title:             Hydejack
     url:               /blog1/
   - title:             hyde
     url:               /hyde/
