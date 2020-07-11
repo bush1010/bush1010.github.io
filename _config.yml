@@ -51,9 +51,9 @@ author:
 menu:
   - title:             Project
     url:               /Project/
-  - title:             Hydejack
+  - title:             hydejack
     url:               /hydejack/
-  - title:             Hyde
+  - title:             hyde
     url:               /hyde/
   - title:             Documentation
     url:               /docs/
