@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Hydejack
-    url:               /blog1/
+    url:               /Hydejack/
   - title:             hyde
     url:               /hyde/
   - title:             Documentation
