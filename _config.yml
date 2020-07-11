@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Hydejack
     url:               /hydejack/
-  - title:             BlogCategory
-    url:               /BlogCategory/
+  - title:             Blog
+    url:               /Blog/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -103,7 +103,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   - scope:
-      path:            BlogCategory
+      path:            hyde
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
