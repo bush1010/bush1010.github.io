@@ -12,13 +12,6 @@ author1:
 
     Open `_data/authors.yml` to edit this text.
 
-    [Download Free][kit]
-    -- or --
-    [Buy PRO][buy]
-
-    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
-    [buy]: https://app.simplegoods.co/i/NATYVLYT
-
   # This photo will be used in the about section
   picture:
     path:            https://placehold.it/128x128
@@ -31,9 +24,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    github:          https://github.com/bush1010
+    email:           1614244737@qq.com
+    #twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
